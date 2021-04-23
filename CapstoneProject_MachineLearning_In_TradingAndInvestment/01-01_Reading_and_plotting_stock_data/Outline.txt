@@ -1,0 +1,12 @@
+In this module, we will see how to read data, select subsets of it and generate useful plots, using pandas and matplotlib. The documentation links below are for the reference.
+
+--> Read stock data from CSV files:
+  pandas.DataFrame
+  pandas.read_csv
+--> Select desired rows and columns:
+  Indexing and Slicing Data
+Gotchas: Label-based slicing conventions
+--> Visualize data by generating plots:
+  Plotting
+  pandas.DataFrame.plot 
+  matplotlib.pyplot.plot

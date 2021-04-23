@@ -1,0 +1,15 @@
+Here's an overview of what we'll see in this module. Documentation links are for reference.
+
+--> Read in multiple stocks:
+- Create an empty pandas.DataFrame with dates as index: pandas.date_range
+    This helps align stock data and orders it by trading date
+    
+- Drop missing date rows: pandas.DataFrame.dropna
+    Read in a reference stock (here SPY) and drop non-trading days using pandas.DataFrame.dropna
+    
+- Incrementally join data for each stock: pandas.DataFrame.join
+
+--> Manipulate stock data:
+- Index and select data by row (dates) and column (symbols)
+- Plot multiple stocks at once (still using pandas.DataFrame.plot)
+- Carry out arithmetic operations across stocks
