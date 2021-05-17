@@ -27,4 +27,3 @@ This project uses the following software and Python libraries:
 * [Keras](https://keras.io/)
 * [Tensor-flow](https://www.tensorflow.org)
 * [Jupyter Notebook](http://ipython.org/notebook.html)
-
