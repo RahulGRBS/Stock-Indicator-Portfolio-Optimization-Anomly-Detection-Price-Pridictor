@@ -19,6 +19,9 @@ namely Bollingder curves , Cumulative and Daily Return , Sharpe Ratio, CAPM mode
 -	Secondly is to see the anomaly in the prices of stock wherein actual historic stocks prices are analysed and bucketed under some thresholds and Outliners are shown as Anomalies.
 -	Lastly  LSTM is being used to predict the stock price after failed attempt of Linear Regression and Knn model
 
+## Blog is available on the link :
+https://contrahulg.medium.com/investment-firms-hedge-funds-and-even-individuals-have-been-using-financial-models-to-better-1a6ac83207d1
+
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
